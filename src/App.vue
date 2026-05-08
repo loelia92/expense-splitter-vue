@@ -123,7 +123,7 @@ input, select {
     flex: 1;
     padding: 10px;
     border-radius: 10px;
-    border: 1px solid #299c03;
+    border: 1px solid #8cd872;
 }
 
 button {
@@ -153,6 +153,6 @@ button {
 
 #summaryList li {
   background: #e10c0c;
-  color: #519b0b;
+  color: #bbea90;
 }
 </style>
